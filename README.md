@@ -62,3 +62,8 @@ pip install pillow
     <td align="center"><a href="https://mainakfolio.netlify.app/"><img src="https://avatars.githubusercontent.com/u/64016811?s=400&u=ba3729e335defb4bba4c4d06852300b5a2c839fe&v=4" width="100px;" alt=""/><br /><sub><b>Mainak Chaudhuri</b></sub></a><br /></a></td>
              </tr>
                         </table>
+                        
+
+| Image | Name | About |
+|-------|------|-------|
+| <img src="https://avatars.githubusercontent.com/u/64016811?s=400&u=ba3729e335defb4bba4c4d06852300b5a2c839fe&v=4" width="100px;" alt=""/> | Mainak Chaudhuri | CSE |
