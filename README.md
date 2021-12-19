@@ -57,6 +57,6 @@ pip install pillow
 ![8](https://user-images.githubusercontent.com/64016811/146642563-ef904c78-fe1c-4d74-a539-096b1bd332b1.png)
 
 ### Made by :
-| Name | Start Date | End Date | Time Taken |
-|------|------------|----------|------------|
-| Mainak Chaudhuri | 29.11.21 | 18.12.21 | 20 days |
+| Name | Start Date | End Date | Time Taken | Project Type |
+|------|------------|----------|------------|--------------|
+| Mainak Chaudhuri | 29.11.21 | 18.12.21 | 20 days | Mini Project |
